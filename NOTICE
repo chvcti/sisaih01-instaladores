@@ -1,0 +1,13 @@
+SISAIH01 Instaladores — TI HGVC
+Copyright 2026 TI HGVC
+
+Este produto é baseado em BRConnect/datasus-releases
+(https://github.com/BRConnect/datasus-releases),
+Copyright 2026 Lucas Camargo Stivan, licenciado sob a Apache License 2.0.
+
+Modificações feitas pela TI HGVC: rebranding, sincronização direta com as
+fontes oficiais do DATASUS e ajustes de configuração. Os arquivos modificados
+foram alterados em relação ao original.
+
+Os instaladores distribuídos nas Releases são cópias de software do DATASUS /
+Ministério da Saúde e não estão cobertos por esta licença.
