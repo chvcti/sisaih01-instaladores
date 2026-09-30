@@ -13,7 +13,8 @@
     "start": "next start",
     "check": "tsc --noEmit",
     "test": "bun test",
-    "sync:datasus": "bun run scripts/sync-datasus.ts"
+    "sync:datasus": "bun run scripts/sync-datasus.ts",
+    "sync:local": "bash scripts/sync-local.sh"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",

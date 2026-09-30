@@ -1,9 +1,8 @@
 name: Sincronizar releases DATASUS
 
 on:
-  schedule:
-    # 07:00 em Brasília (UTC-3) = 10:00 UTC
-    - cron: "0 10 * * *"
+  # Sem agendamento: os runners do GitHub não alcançam o FTP do DATASUS.
+  # O sync roda localmente (npm run sync:local).
   workflow_dispatch:
 
 permissions:
