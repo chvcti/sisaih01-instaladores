@@ -1,5 +1,47 @@
 {
-  "generatedAt": "2026-09-28T00:00:00.000Z",
+  "generatedAt": "2026-09-30T15:39:17.891Z",
   "repository": "chvcti/sisaih01-instaladores",
-  "releases": []
+  "releases": [
+    {
+      "id": "sisaih01-25-30",
+      "program": "SISAIH01",
+      "programName": "Sistema de Informações Hospitalares",
+      "version": "25.30",
+      "filename": "sisaih01_ver2530.exe",
+      "size": "Conforme arquivo oficial",
+      "sourceUrl": "ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Programas/sisaih01_ver2530.exe",
+      "sourcePage": "http://sihd.datasus.gov.br/versao/versao_sisaih01.php",
+      "publishedLabel": "Competência 09/2026",
+      "competence": "09/2026",
+      "downloadUrl": "https://github.com/chvcti/sisaih01-instaladores/releases/download/sih-sisaih01-09-2026-v25-30/sisaih01_ver2530.exe",
+      "delivery": "github-release"
+    },
+    {
+      "id": "ciha01-20-33",
+      "program": "CIHA01",
+      "programName": "Comunicação de Informação Hospitalar e Ambulatorial",
+      "version": "20.33",
+      "filename": "CIHA01_VER2033.exe",
+      "size": "Conforme arquivo oficial",
+      "sourceUrl": "ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/CIHA/Programas/CIHA01_VER2033.exe",
+      "sourcePage": "https://ciha.saude.gov.br/versao/versao_ciha1.php",
+      "publishedLabel": "Versão atual",
+      "downloadUrl": "https://github.com/chvcti/sisaih01-instaladores/releases/download/ciha01-v20-33/CIHA01_VER2033.exe",
+      "delivery": "github-release"
+    },
+    {
+      "id": "sigtap-202609",
+      "program": "SIGTAP",
+      "programName": "Tabela de Procedimentos, Medicamentos e OPM do SUS",
+      "version": "09/2026",
+      "filename": "TabelaUnificada_202609_v2609171117.zip",
+      "size": "Conforme arquivo oficial",
+      "sourceUrl": "ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202609_v2609171117.zip",
+      "sourcePage": "http://sigtap.datasus.gov.br/tabela-unificada/app/download.jsp",
+      "publishedLabel": "Competência 09/2026",
+      "competence": "09/2026",
+      "downloadUrl": "https://github.com/chvcti/sisaih01-instaladores/releases/download/sigtap-202609-v2609171117/TabelaUnificada_202609_v2609171117.zip",
+      "delivery": "github-release"
+    }
+  ]
 }
